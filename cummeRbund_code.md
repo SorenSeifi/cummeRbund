@@ -1,5 +1,5 @@
 ---
-title: "cummeRbund_code"
+title: "cummeRbund"
 author: "Soren"
 date: "06/09/2019"
 output: 
