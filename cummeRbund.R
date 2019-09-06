@@ -1,6 +1,6 @@
 url("https://www.youtube.com/watch?v=lsMRk2Mmfdc")
 
-setwd("/media/soren/Soren_Drive/SOSCIP/Stripe_rust/Results/YR15/RNA-seq/Cuffdiff")
+# setwd("/media/soren/Soren_Drive/SOSCIP/Stripe_rust/Results/YR15/RNA-seq/Cuffdiff")
 getwd()
 dir()
 
